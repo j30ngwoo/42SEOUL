@@ -1,0 +1,3 @@
+# libft
+### Implementation of simple C functions
+> calloc, memset, putchar, etc...
