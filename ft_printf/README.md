@@ -1,6 +1,12 @@
-# ft_printf
+# ft_printf: Implementation of printf
 
-### Implementation of printf: standard I/O function
+### Prototype
+```c
+int ft_printf(const char *, ...);
+```
+
+### 🎯Keyword
+> Variadic Arguments
 
 #### 1. ```make``` to use several format specifier
 - ```%c``` character
